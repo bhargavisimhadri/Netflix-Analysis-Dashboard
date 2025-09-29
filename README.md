@@ -16,19 +16,11 @@ An interactive **Power BI dashboard** that provides insights into Netflix’s co
 * **Python / Excel** (Data preprocessing – optional, mention if you used)
 * **Dataset**: Netflix Titles Dataset from Kaggle
 
-## 📷 Dashboard Preview
-
-![Netflix Dashboard Screenshot](dashboard_screenshots/netflix_dashboard.png)
-
 ## 🚀 How to Use
 
 1. Download the `.pbix` file from this repo.
 2. Open it in **Power BI Desktop**.
 3. Interact with filters and visuals to explore insights.
-
-## 🔗 Live Dashboard
-
-If published → [View Dashboard Here](https://app.powerbi.com/...)
 
 ## 📂 Repository Structure
 
